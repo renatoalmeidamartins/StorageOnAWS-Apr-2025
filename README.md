@@ -12,3 +12,4 @@
 ## Day 1 links
 - [Well-architected framework](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
 - [AWS Global infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/?p=ngi&loc=1)
+- [IAM Policy Simulator](https://policysim.aws.amazon.com/)
