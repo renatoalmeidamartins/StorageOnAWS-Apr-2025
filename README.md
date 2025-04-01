@@ -23,3 +23,6 @@
 - [Pre-signed URLs for S3](https://docs.aws.amazon.com/cli/latest/reference/s3/presign.html)
 - [S3 access points, ACLs and bucket policies](https://aws.amazon.com/blogs/security/iam-policies-and-bucket-policies-and-acls-oh-my-controlling-access-to-s3-resources/)
 - [AWS Comprehend Lambda examples](https://github.com/aws-samples/amazon-comprehend-s3-object-lambda-functions/tree/main)
+- [Dealing with multipart uploads](https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpuoverview.html)
+- [Using the TransferUtility .Net helper class to automatically manage multipart uploads](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HLuploadDirDotNet.html)
+- [Using the TransferManager Java helper class to help with multipart uploads](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/transfer/s3/S3TransferManager.html)
