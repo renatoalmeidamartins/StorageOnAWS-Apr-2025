@@ -28,3 +28,4 @@
 - [Using the TransferManager Java helper class to help with multipart uploads](https://sdk.amazonaws.com/java/api/latest/software/amazon/awssdk/transfer/s3/S3TransferManager.html)
 - [Transfer accelaration test](https://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html)
 - [S3 MFA delete](https://docs.aws.amazon.com/AmazonS3/latest/userguide/MultiFactorAuthenticationDelete.html?icmpid=docs_amazons3_console)
+- [Object lock](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock.html) - be careful!!!. If locked in compliance mode, the only way to shorten the duration is closing the AWS account. Maximum lock duration is 1000 years.
