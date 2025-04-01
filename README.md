@@ -15,3 +15,4 @@
 - [IAM Policy Simulator](https://policysim.aws.amazon.com/)
 - [Beyond 11 9s of durability: Data protection with S3](https://www.youtube.com/watch?v=XyRdMT4zUrA)
 - [Dive deep on Amazon S3](https://www.youtube.com/watch?v=sYDJYqvNeXU)
+- [Old S3 path-based URLs](https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/)
