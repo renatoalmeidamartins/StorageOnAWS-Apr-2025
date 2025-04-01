@@ -19,3 +19,4 @@
 - [S3 server access log format](https://docs.aws.amazon.com/AmazonS3/latest/userguide/LogFormat.html#log-record-fields)
 - [Policy Generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
 - [IAM Policy Reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies.html)
+- [KMS bucket keys, a cost saving measure](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucket-key.html)
