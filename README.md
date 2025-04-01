@@ -13,5 +13,5 @@
 - [Well-architected framework](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
 - [AWS Global infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/?p=ngi&loc=1)
 - [IAM Policy Simulator](https://policysim.aws.amazon.com/)
-- [Beyound 11 9s of durability: Data protection with S3](https://www.youtube.com/watch?v=XyRdMT4zUrA)
+- [Beyond 11 9s of durability: Data protection with S3](https://www.youtube.com/watch?v=XyRdMT4zUrA)
 - [Dive deep on Amazon S3](https://www.youtube.com/watch?v=sYDJYqvNeXU)
