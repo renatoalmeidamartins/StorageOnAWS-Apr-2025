@@ -10,4 +10,4 @@
 - Lab and course materials here: https://us-east-1.student.classrooms.aws.training/class/ilt%23g4L4N46wPrf3iVkTDxuVE8
 
 ## Day 1 links
-- (Well-architected framework)[https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc]
+- [Well-architected framework](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
