@@ -20,3 +20,4 @@
 - [Policy Generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
 - [IAM Policy Reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies.html)
 - [KMS bucket keys, a cost saving measure](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucket-key.html)
+- [Pre-signed URLs for S3](https://docs.aws.amazon.com/cli/latest/reference/s3/presign.html)
