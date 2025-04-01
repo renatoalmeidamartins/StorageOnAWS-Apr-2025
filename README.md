@@ -18,3 +18,4 @@
 - [Old S3 path-based URLs](https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/)
 - [S3 server access log format](https://docs.aws.amazon.com/AmazonS3/latest/userguide/LogFormat.html#log-record-fields)
 - [Policy Generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
+- [IAM Policy Reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies.html)
