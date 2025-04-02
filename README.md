@@ -38,11 +38,11 @@
 - EBS storage activitity requirements:
 -- New application requirements are as follows:
 -- Requires four block storage volumes:
---- 1 x 10 GiB boot volume
---- 1 x 150 GiB application volume
---- 1 x 60 GiB transaction log volume
---- 1 x 5 TiB data retention volume
---- Minimum of 3000 IOPS, maximum of 9000 IOPS for all four volumes.
---- Throughput requirement of 100 MiB/s or less for all four volumes.
---- Requires point-in-time consistency for recovery time objectives and recovery point objective capabilities.![image](https://github.com/user-attachments/assets/636749ab-610a-440b-9924-fbd28bd693a3)
+  - 1 x 10 GiB boot volume
+  - 1 x 150 GiB application volume
+  - 1 x 60 GiB transaction log volume
+  - 1 x 5 TiB data retention volume
+  - Minimum of 3000 IOPS, maximum of 9000 IOPS for all four volumes.
+  - Throughput requirement of 100 MiB/s or less for all four volumes.
+  - Requires point-in-time consistency for recovery time objectives and recovery point objective capabilities.![image](https://github.com/user-attachments/assets/636749ab-610a-440b-9924-fbd28bd693a3)
 
