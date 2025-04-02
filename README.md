@@ -47,3 +47,4 @@
     - Requires point-in-time consistency for recovery time objectives and recovery point objective capabilities.![image](https://github.com/user-attachments/assets/636749ab-610a-440b-9924-fbd28bd693a3)
   - [Fast Snapshot restore](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-fast-snapshot-restore.html)
   - [Cross-account shareing of snapshots](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-modifying-snapshot-permissions.html) - different from what the slide on Module 5 says, when we share a snapshot with another account, it will be in the same region.
+  - [EFS performance specifications](https://docs.aws.amazon.com/efs/latest/ug/performance.html)
