@@ -45,4 +45,4 @@
     - Minimum of 3000 IOPS, maximum of 9000 IOPS for all four volumes.
     - Throughput requirement of 100 MiB/s or less for all four volumes.
     - Requires point-in-time consistency for recovery time objectives and recovery point objective capabilities.![image](https://github.com/user-attachments/assets/636749ab-610a-440b-9924-fbd28bd693a3)
-
+  - [Fast Snapshot restore](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-fast-snapshot-restore.html)
