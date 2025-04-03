@@ -48,3 +48,9 @@
   - [Fast Snapshot restore](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-fast-snapshot-restore.html)
   - [Cross-account shareing of snapshots](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-modifying-snapshot-permissions.html) - different from what the slide on Module 5 says, when we share a snapshot with another account, it will be in the same region.
   - [EFS performance specifications](https://docs.aws.amazon.com/efs/latest/ug/performance.html)
+## Day 3 links
+- Topics not covered on S3
+  - [CORS (Cross-origin resource sharing)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cors.html)
+  - [Static website hosting](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html?icmpid=docs_amazons3_console) - Amplify Hosting is now favored
+  - 
+  - 
