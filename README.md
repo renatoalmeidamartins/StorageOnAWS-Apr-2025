@@ -56,4 +56,9 @@ https://aws.training/Account/Transcript/Archived
   - [CORS (Cross-origin resource sharing)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cors.html)
   - [Static website hosting](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html?icmpid=docs_amazons3_console) - Amplify Hosting is now favored
   - [FSs storage gateway no longer available, must be migrated to FSx for Windows](https://aws.amazon.com/blogs/storage/switch-your-file-share-access-from-amazon-fsx-file-gateway-to-amazon-fsx-for-windows-file-server/)
-  - [CLoud provider support for DataSync](https://docs.aws.amazon.com/datasync/latest/userguide/transferring-other-cloud-storage.html)
+  - [Cloud provider support for DataSync](https://docs.aws.amazon.com/datasync/latest/userguide/transferring-other-cloud-storage.html)
+  - [Logging Insights event with CloudTrail](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/insights-events-enable.html)
+  - [Legal holds on AWS backup](https://docs.aws.amazon.com/aws-backup/latest/devguide/legalhold.html#legalhold-creation)
+  - [Activating the Datasync agent](https://docs.aws.amazon.com/datasync/latest/userguide/activate-agent.html#get-activation-key) - useful for when the auto activation fails for some reason.
+  - 
+  - 
