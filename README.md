@@ -38,8 +38,8 @@ https://aws.training/Account/Transcript/Archived
 ## Day 2 links
 - [RAID](https://en.wikipedia.org/wiki/RAID)
 - [Multi-attach EBS volumens](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volumes-multi.html)
-- EBS storage activitity requirements, with the volume types for each case:
-  - New application requirements are as follows :
+- EBS storage activitity requirements, with the volume types for each case
+  - New application requirements are as follows
     - Requires four block storage volumes:
       - 1 x 10 GiB boot volume
       - 1 x 150 GiB application volume
