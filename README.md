@@ -53,4 +53,4 @@
   - [CORS (Cross-origin resource sharing)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cors.html)
   - [Static website hosting](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html?icmpid=docs_amazons3_console) - Amplify Hosting is now favored
   - [FSs storage gateway no longer available, must be migrated to FSx for Windows](https://aws.amazon.com/blogs/storage/switch-your-file-share-access-from-amazon-fsx-file-gateway-to-amazon-fsx-for-windows-file-server/)
-  - 
+  - [CLoud provider support for DataSync](https://docs.aws.amazon.com/datasync/latest/userguide/transferring-other-cloud-storage.html)
