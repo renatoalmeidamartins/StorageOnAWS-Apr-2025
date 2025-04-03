@@ -1,6 +1,6 @@
 # StorageOnAWS-Apr-2025
 
-## Course survei 
+## Course survey
 https://aws.training/Account/Transcript/Archived
 
 ## Trainer info:
@@ -60,5 +60,3 @@ https://aws.training/Account/Transcript/Archived
   - [Logging Insights event with CloudTrail](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/insights-events-enable.html)
   - [Legal holds on AWS backup](https://docs.aws.amazon.com/aws-backup/latest/devguide/legalhold.html#legalhold-creation)
   - [Activating the Datasync agent](https://docs.aws.amazon.com/datasync/latest/userguide/activate-agent.html#get-activation-key) - useful for when the auto activation fails for some reason.
-  - 
-  - 
